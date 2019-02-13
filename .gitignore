@@ -1,4 +1,5 @@
 TB/*
+Tracker/__pycache__/*
 .vscode/*
 .env
-ngrok
+ngrok.exe
